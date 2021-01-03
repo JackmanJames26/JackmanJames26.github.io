@@ -1,9 +1,11 @@
+<html>
 <div class="header">
 <a href="./images/nasa_image2.jpg">picture</a>
 </div>
 <head>
 <link rel="stylesheet" href="main.css">
 </head>
+<body>
 <!-- <h2>Dr James A. G. Jackman</h2>
 <h4>jamesjackman@asu.edu</h4> -->
 <img src="./images/nasa_image2.jpg">
@@ -13,3 +15,5 @@
 
 <div class="footer">
 </div>
+<\body>
+<\html>
