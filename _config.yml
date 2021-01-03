@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+title: 
 header_pages:
   - index.md
   - dankmeme.md
