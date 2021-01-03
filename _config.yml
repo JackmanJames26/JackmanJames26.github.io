@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 title: Dr James A. G. Jackman
-email: jamesjackman@asu.edu
-header_pages:
-  - index.md
-  - dankmeme.md
+author:
+  name: James A. G. Jackman
+  email: jamesjackman@asu.edu
+minima:
+  # generate social links in footer
+  social_links:
+    twitter: jackmanjames26
