@@ -7,3 +7,6 @@ minima:
   # generate social links in footer
   social_links:
     twitter: jackmanjames26
+    
+header_pages:
+ - about.md
