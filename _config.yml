@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 title: Dr James A. G. Jackman
+description: > # this means to ignore newlines until "show_excerpts:"
+  James Jackman's webpage
+show_excerpts: false
 author:
   name: James A. G. Jackman
   email: jamesjackman@asu.edu
