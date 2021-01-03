@@ -1,5 +1,8 @@
 <div class="header">
 </div>
+<head>
+<link rel="stylesheet" href="main.css">
+</head>
 <!-- <h2>Dr James A. G. Jackman</h2>
 <h4>jamesjackman@asu.edu</h4> -->
 <img src="./images/nasa_image2.jpg">
