@@ -1,3 +1,7 @@
+<div class="header">
+  <h1>Header</h1>
+  <p>My supercool header</p>
+</div>
 <h2>Dr James A. G. Jackman</h2>
 <h4>jamesjackman@asu.edu</h4>
 <img src="./images/nasa_image2.jpg">
