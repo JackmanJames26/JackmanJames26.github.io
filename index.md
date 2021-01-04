@@ -1,6 +1,6 @@
 <html>
 <div class="header">
-<a href="./images/nasa_image2.jpg">picture</a>
+<a href="mailto:jamesjackman@asu.edu"><h4>Email</h4></a> <a href="https://twitter.com/JackmanJames26"><h4>Twitter</h4></a>
 </div>
 <head>
 <link rel="stylesheet" href="main.css">
@@ -13,14 +13,10 @@
 <p>I'm particularly interested in stellar flares, explosive magnetic reconnection events which emit radiation from radio up to X-ray wavelengths. My work involves finding and characterising these intense events, in order to better understand how often they occur and the amount of energy they release in different wavelengths. This knowledge can then be applied to our understanding of the effects of flares on the habitability of exoplanets.</p>
 
 
-<h3> My Publications </h3>
-
-<h3> Links </h3>
-
-<a href="mailto:jamesjackman@asu.edu"><h5>Email</h5></a> <a href="https://twitter.com/JackmanJames26"><h5>Twitter</h5></a>
 
 
-<!--<div class="footer">
-</div> -->
+<div class="footer">
+<a href="mailto:jamesjackman@asu.edu"><h4>Email</h4></a> <a href="https://twitter.com/JackmanJames26"><h4>Twitter</h4></a>
+</div>
 </body>
 </html>
