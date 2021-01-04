@@ -20,7 +20,7 @@
 <a href=jamesjackman@asu.edu><h5>Email</h5></a> <a href=https://twitter.com/JackmanJames26><h5>Twitter</h5></a>
 
 
-<div class="footer">
-</div>
+<!--<div class="footer">
+</div> -->
 </body>
 </html>
