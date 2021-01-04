@@ -1,6 +1,6 @@
 img {
   max-width: 10%;
-  max-height: 50px;
+  max-height: 100px;
   float: right
 }
 
@@ -18,8 +18,7 @@ h4{
     display: inline;
 }
 
-<style>
-a:link {
+link {
   color: black;
   background-color: transparent;
   text-decoration: none;
