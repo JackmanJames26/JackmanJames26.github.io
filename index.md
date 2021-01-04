@@ -1,7 +1,7 @@
 <html>
-<!--<div class="header">
+<div class="header">
 <a href="./images/nasa_image2.jpg">picture</a>
-</div> -->
+</div>
 <head>
 <link rel="stylesheet" href="main.css">
 </head>
@@ -17,7 +17,7 @@
 
 <h3> Links </h3>
 
-<a href=jamesjackman@asu.edu><h5>Email</h5></a> <a href=https://twitter.com/JackmanJames26><h5>Twitter</h5></a>
+<a href="mailto:jamesjackman@asu.edu"><h5>Email</h5></a> <a href="https://twitter.com/JackmanJames26"><h5>Twitter</h5></a>
 
 
 <!--<div class="footer">
