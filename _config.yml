@@ -12,6 +12,7 @@ minima:
     
 header_pages:
  - about.md
+ - dankmemes.md
 
 plugins:
  - jekyll-feed
