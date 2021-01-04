@@ -2,13 +2,13 @@ title: Dr James A. G. Jackman
 #description: > # this means to ignore newlines until "show_excerpts:"
 #  jamesjackman@asu.edu
 show_excerpts: false
-author:
-  name: James A. G. Jackman
-  email: jamesjackman@asu.edu
-minima:
-  # generate social links in footer
-  social_links:
-    twitter: jackmanjames26
+#author:
+#  name: James A. G. Jackman
+#  email: jamesjackman@asu.edu
+#minima:
+#  # generate social links in footer
+#  social_links:
+#    twitter: jackmanjames26
     
 header_pages:
  - about.md
