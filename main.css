@@ -1,6 +1,7 @@
 img {
   max-width: 10%;
-  max-height: 100px;
+  padding: 5px;
+  height: auto;
   float: right
 }
 
