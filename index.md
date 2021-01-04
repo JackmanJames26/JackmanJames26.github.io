@@ -13,7 +13,7 @@
 
 <h2> About Me </h2>
 
-<p align="justify"><a href="./images/nasa_image2.jpg"><img src="./images/nasa_image2.jpg" height=10px></a>I am a Postdoctoral Scholar in astronomy at Arizona State University and have been since August 2020. I work with Prof. Evegnya Shkolnik. I study the magnetic activity of stars ranging from those like our Sun right down to the brown dwarf boundary. </p>
+<p align="justify"><a href="./images/nasa_image2.jpg"><img src="./images/nasa_image2.jpg" height=100px></a>I am a Postdoctoral Scholar in astronomy at Arizona State University and have been since August 2020. I work with Prof. Evegnya Shkolnik. I study the magnetic activity of stars ranging from those like our Sun right down to the brown dwarf boundary. </p>
 
 <p align="justify"> I'm particularly interested in stellar flares, explosive astrophysical phenomena caused by reconnection events in the magnetic fields of stars other than our Sun. Stellar flares emit radiation from radio up to X-ray wavelengths and those detected regularly have energies exceeding anything seen from the modern Sun. My work involves finding and characterising these intense events, in order to better understand how often they occur on different types of stars and the amount of energy they release in different wavelengths. This knowledge can then be applied to our understanding of the effects of flares on the habitability of exoplanets. My work has been featured in the internatonal press and I'm always happy to discuss recent findings or future ideas with the press and scientific community alike. </p>
   
