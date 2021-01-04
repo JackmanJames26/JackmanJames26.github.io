@@ -1,7 +1,7 @@
 title: Dr James A. G. Jackman
 #description: > # this means to ignore newlines until "show_excerpts:"
 #  jamesjackman@asu.edu
-#show_excerpts: false
+show_excerpts: false
 author:
   name: James A. G. Jackman
   email: jamesjackman@asu.edu
