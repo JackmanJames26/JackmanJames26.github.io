@@ -3,6 +3,7 @@
 </div>-->
 <head>
 <link rel="stylesheet" href="main.css">
+  <title>Dr James A. G. Jackman</title>
   <header><h1>Dr James A. G. Jackman</h1></header> 
 </head>
 <body>
