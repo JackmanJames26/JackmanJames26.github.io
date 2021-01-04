@@ -2,7 +2,8 @@ img {
   padding: 15px;
   width: auto;
   float: right;
-  border-color: #F8F8F8;
+  background: #F8F8F8;
+  background-clip: border-box;
 }
 
 .center {
