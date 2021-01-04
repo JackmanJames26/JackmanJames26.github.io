@@ -1,7 +1,7 @@
 <html>
-<div class="header">
+<!--<div class="header">
 <a href="./images/nasa_image2.jpg">picture</a>
-</div>
+</div> -->
 <head>
 <link rel="stylesheet" href="main.css">
 </head>
