@@ -17,6 +17,8 @@
 
 <h3> Links </h3>
 
+<p><a href=jamesjackman@asu.edu><h5>Email</h5></a> <a href=https://twitter.com/JackmanJames26><h5>Twitter</h5></a></p>
+
 
 <div class="footer">
 </div>
