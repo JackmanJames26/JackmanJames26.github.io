@@ -3,7 +3,7 @@
 </div>-->
 <head>
 <link rel="stylesheet" href="main.css">
-  <title><h1>Dr James A. G. Jackman</h1></title> 
+  <header><h1>Dr James A. G. Jackman</h1></header> 
 </head>
 <body>
 <a href="https://ui.adsabs.harvard.edu/user/libraries/NAGvqs9vTkeTitoqIK-sMg"><h4>Publications</h4></a> &nbsp; &nbsp; <a href="https://twitter.com/JackmanJames26"><h4>Twitter</h4></a>
