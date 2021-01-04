@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="main.css">
 </head>
 <body>
-<a href="https://ui.adsabs.harvard.edu/user/libraries/NAGvqs9vTkeTitoqIK-sMg"><h4>Publications</h4></a> <a href="https://twitter.com/JackmanJames26"><h4>Twitter</h4></a>
+<a href="https://ui.adsabs.harvard.edu/user/libraries/NAGvqs9vTkeTitoqIK-sMg"><h4>Publications</h4></a> &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/JackmanJames26"><h4>Twitter</h4></a>
 <!-- <h2>Dr James A. G. Jackman</h2>
 <h4>jamesjackman@asu.edu</h4> -->
 <h3> About Me </h3>
