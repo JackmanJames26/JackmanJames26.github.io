@@ -12,7 +12,7 @@
 <!-- <header><h1>Dr James A. G. Jackman</h1></header> -->
 
 <h2> About Me </h2>
-<img src="./images/nasa_image2.jpg" width=50px>
+<img src="./images/nasa_image2.jpg" width=150px>
 
 <p>I am a Postdoctoral Scholar at Arizona State University and have been since August 2020. I work with Prof. Evegnya Shkolnik. I study the magnetic activity of stars ranging from those like our Sun right down to the brown dwarf boundary. </p>
 
