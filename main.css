@@ -3,7 +3,7 @@ img {
   width: auto;
   float: right;
   background: #F8F8F8;
-  background-clip: border-box;
+  background-clip: padding-box;
 }
 
 .center {
