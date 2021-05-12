@@ -6,7 +6,7 @@
 <!--  <title>Dr James A. G. Jackman</title> -->
 </head>
 <body style="background-color:#FFFFFF;">
-<a href="mailto:jamesjackman@asu.edu"><h4>Email</h4></a> &nbsp;  &nbsp; <a href="https://ui.adsabs.harvard.edu/public-libraries/NAGvqs9vTkeTitoqIK-sMg"><h4>Publications</h4></a> &nbsp; &nbsp; <a href="./pdfs/James_Jackman_CV_Jan_2021.pdf"><h4>CV</h4></a> &nbsp; &nbsp; <a href="https://orcid.org/0000-0003-0711-7992"><h4>ORCID</h4></a> &nbsp; &nbsp; <a href="https://isearch.asu.edu/profile/3775785"><h4>Department Webpage</h4></a>
+<a href="mailto:jamesjackman@asu.edu"><h4>Email</h4></a> &nbsp;  &nbsp; <a href="https://ui.adsabs.harvard.edu/public-libraries/NAGvqs9vTkeTitoqIK-sMg"><h4>Publications</h4></a> &nbsp; &nbsp; <a href="./pdfs/James_Jackman_Full_CV_May_2021.pdf"><h4>CV</h4></a> &nbsp; &nbsp; <a href="https://orcid.org/0000-0003-0711-7992"><h4>ORCID</h4></a> &nbsp; &nbsp; <a href="https://isearch.asu.edu/profile/3775785"><h4>Department Webpage</h4></a>
 <!-- <h2>Dr James A. G. Jackman</h2>
 <h4>jamesjackman@asu.edu</h4> -->
 <!-- <header><h1>Dr James A. G. Jackman</h1></header> -->
