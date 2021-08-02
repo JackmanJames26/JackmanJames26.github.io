@@ -3,7 +3,6 @@
 </div>-->
 <head>
 <link rel="stylesheet" href="main.css">
-<link rel="shortcut icon" type="image/png" href="./pdfs/favicon.png">
 <!--  <title>Dr James A. G. Jackman</title> -->
 </head>
 <body style="background-color:#FFFFFF;">
