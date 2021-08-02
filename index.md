@@ -20,7 +20,7 @@
 <p align="justify"> My email and other relevant information is avaiable in the links at the top of the page. If you have any queries about my work, future projects, or the field in general, please get in touch.</p>
 
 
-<a href="https://twitter.com/JackmanJames26"><h4>Twitter</h4></a>
+<a href="https://twitter.com/JackmanJames26"><h4>Twitter</h4></a> &nbsp; &nbsp; <a href="./pdfs/equation.pdf"><h4>Flare Model</h4></a>
 
 
 <!--<div class="footer">
