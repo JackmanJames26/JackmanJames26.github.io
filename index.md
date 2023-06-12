@@ -14,7 +14,7 @@
 
 <h2> About Me </h2>
 
-<p align="justify"><a href="./images/nasa_image2.jpg"><img src="./images/nasa_image2.jpg" height=300px></a> As of July 2023, I am a former astronomer, having previously been a Postdoctoral Scholar in astronomy at Arizona State University. I studied the magnetic activity of stars ranging from those like our Sun right down to the brown dwarf boundary. I am now looking for data science/analysis positions. </p>
+<p align="justify"><a href="./images/nasa_image2.jpg"><img src="./images/nasa_image2.jpg" height=300px></a> As of July 2023, I am a former professional astronomer, having previously been a Postdoctoral Scholar in astronomy at Arizona State University. I studied the magnetic activity of stars ranging from those like our Sun right down to the brown dwarf boundary. I am now looking for data science/analysis positions. </p>
 
 <p align="justify"> My previous research primarily focused on stellar flares, explosive astrophysical phenomena caused by reconnection events in the magnetic fields of stars other than our Sun. Stellar flares emit radiation from radio up to X-ray wavelengths and those detected regularly have energies exceeding anything seen from the modern Sun. My work involved writing algorithms that could search datasets of tens of thousands of stars to look for these events. We then characterised these intense events, in order to better understand how often they occur on different types of stars and the amount of energy they release in different wavelengths. This knowledge can then be applied to our understanding of the effects of flares on the habitability of exoplanets. I'm fascinated to see how the field evolves in the future.   </p>
   
